@@ -12,7 +12,7 @@ src/main/java
            │        └─ TodoListDaoImpl.java (實現類)
            └── model
                      ├─ dto
-	         │      └─ TodoDTO.java 
+	             │   └─ TodoDTO.java 
                      └─ entity
                               └─ Todo.java
 
